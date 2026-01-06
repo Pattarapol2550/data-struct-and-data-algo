@@ -82,3 +82,4 @@ cout<< fixed << setprecision(3) <<"d : "<< d << endl;
 }
     return 0;
 }
+//test 
